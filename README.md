@@ -1,9 +1,9 @@
-## Hi there 👋 My name is Ethan!
+## Hi there 👋 My name is Ethan 😄
 
 I'm a Student at the University of Minnesota studying Computer Science. 
-My current focus is on building software with real-world business applications for both B2B and B2C markets.
+My current focus is on building software with real-world business applications for both B2B and B2C markets cause that's where the money is!
 
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/89f47167-a4fb-4f2c-86a8-6ad36621c531" />
+<img width="775" height="450" alt="image" src="https://github.com/user-attachments/assets/89f47167-a4fb-4f2c-86a8-6ad36621c531" />
 
 <!--
 **edocsprojects/edocsprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
