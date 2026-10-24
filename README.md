@@ -1,3 +1,3 @@
-Open to opportunities across product, engineering, and quality. 
+open to opportunities across product, engineering, and quality
 
-Email me at: edocsprojects at gmail.com
+email: edocsprojects@gmail.com
